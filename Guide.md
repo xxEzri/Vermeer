@@ -32,6 +32,8 @@
 	18. [World of Warcraft](#world-of-warcraft)
 
 # Introduction and Hardware Configuration
+Guide v1.01.
+
 o/ Aeryn here!
 
 This is my first attempt at a more formal guide (covering the performance of the 5800x3d, 5900x, memory scaling for both and 6c vs 8c CCD scaling). It's been a surprising amount of work and so i'm releasing as-is and will continue to polish and add information over time.
