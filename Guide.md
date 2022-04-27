@@ -9,7 +9,7 @@
 	1. [Overall performance at specification](#overall-performance-at-specification)
 	2. [Overall performance with RAM overclocking](#overall-performance-with-ram-overclocking)
 	3. [Performance gains from RAM overclocking](#performance-gains-from-ram-overclocking)
-	4. [Overall 3.4ghz IPC comparison](#overall-3.4ghz-ipc-comparison)
+	4. [Overall 3.4ghz IPC comparison](#overall-ipc-comparison)
 	5. [6core vs 8core CCD scaling](#core-scaling)
 4. [Individual game benchmarks](#individual-game-benchmarks)
 	1. [Ashes of the Singularity](#ashes-of-the-singularity)
@@ -32,7 +32,7 @@
 	18. [World of Warcraft](#world-of-warcraft)
 
 # Introduction and Hardware Configuration
-Guide v1.01.
+Guide v1.02.
 
 o/ Aeryn here!
 
@@ -99,7 +99,7 @@ There are regressions in clock speed which affect the cores (including their L1+
 ![enter image description here](https://i.imgur.com/yqixrHs.png)
 Here you can see those massive RAM scaling differences that i was talking about. I think that it's well worth using good memory on either CPU - or their competitors - but if you don't know or care about which secondary timing does what on your RAM then getting the CPU that does the best without tuning all of that is certainly a good play.
 
-## Overall 3.4ghz IPC comparison
+## Overall IPC comparison
 ![enter image description here](https://i.imgur.com/7xgdBRt.png)
 The only option for a clock-for-clock comparison with the 5800x3d was to disable Precision Boost - this locks that CPU at 3.4ghz, a value which is matchable with the 5900x. It's a very low clock however compared to the regular game clocks of mid 4ghz and this distorts the picture somewhat.
 
